@@ -87,9 +87,3 @@ int largestTwinPrime(int a, int b) {
 	}
 	return num; 
 }
-
-			
-
-
-
-
